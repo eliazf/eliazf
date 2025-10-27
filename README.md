@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zambellifranz.elia@gmail.com
+- 📫 How to reach me @elia.zf on IG
 
 <!---
 eliazf/eliazf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
